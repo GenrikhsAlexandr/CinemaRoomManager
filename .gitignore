@@ -1,0 +1,5 @@
+# Project exclude paths
+/.gradle/
+/Cinema Room Manager (Console)/task/build/
+/Cinema Room Manager (Console)/task/out/
+/Cinema Room Manager (Console)/task/out/production/classes/
